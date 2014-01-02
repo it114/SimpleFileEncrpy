@@ -1,0 +1,19 @@
+简单文件加密，对文件的前几个字节取反，可以加入其他的加密方法，欢迎提交！！！
+
+
+
+
+用法：
+加密：
+ 		 Test t = new Test();
+         t.init("/Users/hpf/Desktop/tmp/encrpy/start1.mp4");
+         t.ok();
+        
+        
+解密：
+
+		 Test t = new Test();
+         t.init("/Users/hpf/Desktop/tmp/encrpy/start1.mp4");
+         t.ok();
+         
+         
